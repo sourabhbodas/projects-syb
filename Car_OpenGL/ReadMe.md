@@ -1,0 +1,1 @@
+This is a project for rendering a basic car using OpenGL functionality.
